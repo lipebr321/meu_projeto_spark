@@ -97,9 +97,6 @@ pytest tests/
 
 Pull requests são bem-vindos! Para mudanças significativas, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
-## 🛡️ Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## ✍️ Autor
 

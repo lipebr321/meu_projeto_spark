@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/meu_pacote/__init__.py
+src/meu_pacote/transformacoes.py
+src/meu_pacote/utils.py
+src/meu_pacote/validacoes.py
+src/meu_pacote_spark.egg-info/PKG-INFO
+src/meu_pacote_spark.egg-info/SOURCES.txt
+src/meu_pacote_spark.egg-info/dependency_links.txt
+src/meu_pacote_spark.egg-info/requires.txt
+src/meu_pacote_spark.egg-info/top_level.txt
+src/scripts/__init__.py
+src/scripts/processar_dados.py
+tests/test_transformacoes.py
+tests/test_validacoes.py
